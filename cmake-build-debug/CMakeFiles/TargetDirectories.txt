@@ -1,0 +1,3 @@
+/Users/trisoil/Desktop/Robomaster_Codes/Servo_Drive/cmake-build-debug/CMakeFiles/Servo_Drive.elf.dir
+/Users/trisoil/Desktop/Robomaster_Codes/Servo_Drive/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisoil/Desktop/Robomaster_Codes/Servo_Drive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
